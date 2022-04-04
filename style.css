@@ -15,9 +15,9 @@
 }
 #right_arrow{
     position: relative;
-    vertical-align: middle;
+    top: 340px;
 }
 #left_arrow{
     position: relative;
-    vertical-align: middle;
+    top: 340px;
 }
