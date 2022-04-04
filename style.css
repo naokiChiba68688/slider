@@ -3,5 +3,6 @@
 }
 #slider_inner{
     width: calc(100%/3);
-    overflow: scroll;
+    overflow-x: scroll;
+    display: flex;
 }
