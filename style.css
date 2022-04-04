@@ -6,3 +6,6 @@
     overflow-x: scroll;
     display: flex;
 }
+#slider_inner::-webkit-scrollbar{
+    display: none;
+  }
