@@ -13,3 +13,11 @@
 #slider{
     display: flex;
 }
+#right_arrow{
+    position: relative;
+    vertical-align: middle;
+}
+#left_arrow{
+    position: relative;
+    vertical-align: middle;
+}
