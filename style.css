@@ -8,4 +8,7 @@
 }
 #slider_inner::-webkit-scrollbar{
     display: none;
-  }
+}
+#slider{
+    display: flex;
+}
