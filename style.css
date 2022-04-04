@@ -1,7 +1,7 @@
 .slider_image{
-    width: calc(100%/3);
+    width: 100%;
 }
-#slider{
+#slider_inner{
     width: calc(100%/3);
     overflow: scroll;
 }
